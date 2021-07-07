@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kattam Kutti</string>
+    <string name="welcome">Welcome to the Kattam-Kutti Game</string>
+    <string name="grid">This is the main grid for our kattam-kutti</string>
+    <string name="dafault">Xs Turn : Tap to play</string>
+    <string name="signs">These are the player signs.</string>
+</resources>
